@@ -1,0 +1,39 @@
+main {
+    text-align: center;
+    width: 900px;
+    background-color: #d5d2ae;
+    padding: 50px 0px;
+    position: relative;
+    margin: 0px auto;
+}
+
+.white {
+    background-color: white;
+}
+
+.title-blocks img {
+    width: 100px;
+    height: 50px;
+}
+
+.title-blocks h1 {
+    display: inline-block;
+    margin-top: 20px;
+    font-size: 35px;
+}
+
+.blocks img {
+    width: 120px;
+    height: 120px;
+    border: 5px solid black;
+    padding: 15px;
+
+}
+
+.odd {
+    background-color: #82b4ee;
+}
+
+.even {
+    background-color: #f36870;
+}
